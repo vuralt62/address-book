@@ -1,0 +1,11 @@
+C:\Users\szutech1\Desktop\adres2\adres2\obj\Debug\adres2.csprojAssemblyReference.cache
+C:\Users\szutech1\Desktop\adres2\adres2\obj\Debug\adres2.ekle.resources
+C:\Users\szutech1\Desktop\adres2\adres2\obj\Debug\adres2.Properties.Resources.resources
+C:\Users\szutech1\Desktop\adres2\adres2\obj\Debug\adres2.csproj.GenerateResource.cache
+C:\Users\szutech1\Desktop\adres2\adres2\obj\Debug\adres2.csproj.CoreCompileInputs.cache
+C:\Users\szutech1\Desktop\adres2\adres2\bin\Debug\adres2.exe.config
+C:\Users\szutech1\Desktop\adres2\adres2\bin\Debug\adres2.exe
+C:\Users\szutech1\Desktop\adres2\adres2\bin\Debug\adres2.pdb
+C:\Users\szutech1\Desktop\adres2\adres2\obj\Debug\adres2.exe
+C:\Users\szutech1\Desktop\adres2\adres2\obj\Debug\adres2.pdb
+C:\Users\szutech1\Desktop\adres2\adres2\obj\Debug\adres2.anaekran.resources
